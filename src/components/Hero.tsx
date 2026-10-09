@@ -1,5 +1,5 @@
 import { ArrowRight, Sparkles, TrendingUp, Bell, Wifi } from "lucide-react";
-import Logo from "./Logo";
+import Logo from "./logo";
 
 export default function Hero() {
   return (
